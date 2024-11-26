@@ -9,7 +9,7 @@ class Hero {
             mago: "magia",
             guerreiro: "espada",
             monge: "artes maciais",
-            ninha: "shuriken"
+            ninja: "shuriken"
         }
         console.log(`O ${this.tipo} atacou usando ${ataques[this.tipo]}!`)
     }
